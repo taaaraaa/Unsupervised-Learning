@@ -1,6 +1,6 @@
 # Unsupervised Learning Project
 
-This project is done collaborately with [Salva Samimi](https://github.com/SalvaSamimi), [Xiaodan Chen](https://github.com/xiaodan29) and [Tara](https://github.com/taaaraaa).
+This project is done collaborately with [Salva Samimi](https://github.com/SalvaSamimi), [Xiaodan Chen](https://github.com/xiaodan29) and [Tara Farhadi](https://github.com/taaaraaa).
 
 ### Topics
 This mini project is dedicated to following topics:
